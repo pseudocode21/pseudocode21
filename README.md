@@ -45,6 +45,7 @@ Production-ready railway reservation platform built using Spring Boot Microservi
 **Tech Used**
 `Java` `Spring Boot` `React.js` `MySQL` `JWT` `Hibernate` `Microservices`
 
+🔗 Repository:  https://github.com/pseudocode21/railway-management-sys
 ---
 
 ### 👨‍💼 Employee Task Management System
@@ -60,8 +61,7 @@ Role-based task management platform with Admin and Employee dashboards.
 **Tech Used**
 `React.js` `JavaScript` `Tailwind CSS`
 
-🔗 Repository:  
-https://github.com/pseudocode21/employee-management-system
+🔗 Repository:  https://github.com/pseudocode21/employee-management-system
 
 ---
 
