@@ -1,18 +1,6 @@
 <h1 align="center">Gaurav Singh Yadav</h1>
 <h3 align="center">Java Backend & Full Stack Developer</h3>
 
-<p align="center">
-  Spring Boot • Microservices • React.js • REST APIs
-</p>
-
-<p align="center">
-  <a href="https://github.com/pseudocode21">
-    <img src="https://komarev.com/ghpvc/?username=pseudocode21&label=Profile+Views&color=blue" />
-  </a>
-</p>
-
----
-
 ## About Me
 
 - MCA Graduate from Lovely Professional University
@@ -20,51 +8,11 @@
 - Strong in Java, Spring Boot, React.js, and REST APIs
 - Regularly practice DSA and problem solving
 
----
-
 ## Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,react,hibernate,javascript,mysql,git,github,aws,postman" />
 </p>
-
----
-
-## Featured Projects
-
-### 🚆 Railway Reservation System
-Production-ready railway reservation platform built using Spring Boot Microservices and React.js.
-
-**Highlights**
-- 6 Microservices Architecture
-- JWT Authentication
-- API Gateway & Eureka Server
-- Booking & Payment APIs
-- Scalable backend design
-
-**Tech Used**
-`Java` `Spring Boot` `React.js` `MySQL` `JWT` `Hibernate` `Microservices`
-
-🔗 Repository:  https://github.com/pseudocode21/railway-management-sys
-
----
-
-### 👨‍💼 Employee Task Management System
-
-Role-based task management platform with Admin and Employee dashboards.
-
-**Highlights**
-- CRUD Operations
-- Context API State Management
-- Responsive Tailwind UI
-- Local Storage Persistence
-
-**Tech Used**
-`React.js` `JavaScript` `Tailwind CSS`
-
-🔗 Repository:  https://github.com/pseudocode21/employee-management-system
-
----
 
 ## Coding Profiles
 <p align="left">
