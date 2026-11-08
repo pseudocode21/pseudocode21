@@ -1,41 +1,45 @@
-<h1 align="center">Gaurav Singh Yadav</h1>
-<h3 align="center">Java Backend & Full Stack Developer</h3>
+ <div >
+<img width="1200" height="300" alt="badge-github" src="https://github.com/user-attachments/assets/2dedf562-4bd1-4c93-8f34-de5e8fb18349" />
 
-## About Me
+#### Hi, Welcome to my GitHub Profile
+###
+</div>
 
-- MCA Graduate from Lovely Professional University
-- Backend-focused developer passionate about scalable systems
-- Strong in Java, Spring Boot, React.js, and REST APIs
-- Regularly practice DSA and problem solving
+---
 
-## Tech Stack
+Hi, I'm **Gaurav Singh Yadav**, a Software Developer passionate about building scalable and reliable applications. I specialize in Java, Spring Boot, Microservices and React.js, with a strong focus on backend development and REST API design.
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,react,hibernate,javascript,mysql,git,github,aws,postman" />
-</p>
+I enjoy solving complex problems, designing efficient database architectures and developing secure applications. I'm continuously exploring new technologies and improving my skills in software engineering, system design and distributed systems.
 
-## Coding Profiles
-<p align="left">
+---
 
-<a href="https://leetcode.com/u/thisisgsy/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+### 💻 Tech Stack:
 
-<a href="https://codeforces.com/profile/Elevenn21">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SPRING_SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/HIBERNATE-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-</p>
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## Contact
-<p align="left">
+---
 
-<a href="https://linkedin.com/in/thisisgauravyadav" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
+### 🏆 Coding Profiles:
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=singhgaurav.y@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/thisisgsy/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Elevenn21)
 
-</p>
+---
+
+<div align="center">
+
+</div>
